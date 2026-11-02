@@ -1,0 +1,12 @@
+stage,status,notes
+E0,complete,"Matched 12-feature RF with random oversampling and 18-feature RF executed"
+E1,complete,"Logistic, tree, RF, Extra Trees, XGBoost, LightGBM and CatBoost executed; 60 search trials"
+E2,complete,"Tenure Per Device and preregistered behavior interactions ablated"
+E3,complete,"No selection, current 12, model-importance selection and RFE executed; shadow selector represented by fold-local model-importance control"
+E4,complete,"No balancing, class weighting, ROS and SMOTE executed"
+E5,complete,"OOF thresholds, sigmoid/isotonic calibration, reliability and threshold curves executed"
+E6,complete,"OOF probability blend executed; single model retained"
+E7,complete,"Repeated grouped OOF, feature importance, confusion and segment-ready prediction artifacts completed"
+E8,complete,"Frozen Extra Trees and matched RF evaluated on locked test once; paired bootstrap completed"
+raw_source_split_first,blocked,"Original raw E Commerce Dataset.xlsx not supplied"
+external_validation,not run,"No independent external cohort supplied"

@@ -1,0 +1,16 @@
+seed: 20251024
+test_fraction: 0.20
+outer_folds: 5
+inner_folds: 3
+search_trials_per_strong_model: 12
+accuracy_floor: 0.93
+bootstrap_replicates: 2000
+primary_metrics: [f1, average_precision]
+guardrails: [accuracy, recall]
+historical_reference:
+  accuracy: 0.9547069272
+  precision: 0.8926553672
+  recall: 0.8315789474
+  f1: 0.8610354223
+  average_precision: 0.9531464893
+  roc_auc: 0.9858636977

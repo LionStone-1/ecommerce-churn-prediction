@@ -1,0 +1,2 @@
+source,sha256,rows,columns,churners,non_churners,churn_rate,profile_groups,repeated_profile_groups,rows_in_repeated_profiles,conflicting_label_groups,dev_rows,test_rows,group_overlap
+Task2_Complete_Data_Quality_and_Cleaning.xlsx,371acba4a77fc4e630792e5f9d3c8f350ba7a5d0e9f23230f89922ad34e0f0f3,5630,20,948,4682,0.16838365896980462,5071,559,1118,0,4504,1126,0
